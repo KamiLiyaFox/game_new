@@ -41,7 +41,7 @@ def ask():
             continue
 
         if field[a][b] != " ":
-            print(" Занято! Присмотри себе доугое местечко! :) ")
+            print(" Занято! Присмотри себе другое местечко! :) ")
             continue
 
         return a, b
